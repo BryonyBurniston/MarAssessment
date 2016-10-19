@@ -1,0 +1,6 @@
+Testxxxxx,19/03/2015,Personal,3
+Test1,28/03/2015,Personal,0
+Test2,21/03/2015,Work,0
+Test3,22/03/2015,Work,0
+Test4,27/03/2015,Personal,1
+Test5,28/03/2015,Other,3

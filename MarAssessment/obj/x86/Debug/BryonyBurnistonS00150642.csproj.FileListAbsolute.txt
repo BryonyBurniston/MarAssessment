@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\bin\Debug\BryonyBurnistonS00150642.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\bin\Debug\BryonyBurnistonS00150642.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\AddTask.baml
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\AddTask.g.cs
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\App.g.cs
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\BryonyBurnistonS00150642_MarkupCompile.cache
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\BryonyBurnistonS00150642.g.resources
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\BryonyBurnistonS00150642.Properties.Resources.resources
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\BryonyBurnistonS00150642.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\BryonyBurnistonS00150642.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\March20Exam\BryonyBurnistonS00150642\BryonyBurnistonS00150642\obj\x86\Debug\BryonyBurnistonS00150642.pdb
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\MarAssessment\MarAssessment\obj\x86\Debug\BryonyBurnistonS00150642.exe
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\MarAssessment\MarAssessment\obj\x86\Debug\BryonyBurnistonS00150642.pdb
